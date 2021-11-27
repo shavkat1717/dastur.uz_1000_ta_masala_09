@@ -9,4 +9,4 @@ def Minmax(x):
     else:
         print(f"({x}) => (",x,")")
         print(f"({y}) => (",y,")")
-Minmax(x)
+Minmax(x) 
